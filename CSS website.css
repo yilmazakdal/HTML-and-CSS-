@@ -1,0 +1,30 @@
+body {
+    margin: 1cm;
+}
+
+.headings {
+    color: red;
+}
+
+.links {
+    font-size: large;
+}
+
+
+.lists{
+    color:blueviolet;
+}
+h1 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.image {
+    align-items: center;
+    border-radius: 50%;
+    border: 8px solid gainsboro;
+    height: 400px;
+    width: 500px;
+    align-content:center;
+    padding: 0.5cm;
+}
